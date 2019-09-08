@@ -15,18 +15,3 @@ Objetivo desse sistema é auxiliar na gestão de um estacionamento. Esse estacio
    * Caso todos os motoristas, dentro do estacionamento, tenham mais de 55 anos e chegue um motorista, ele não conseguirá estacionar.
 
 
-
-## Tópicos
-
-Neste desafio você aprenderá:
-
-* Java
-* Modelagem
-
-## Requisitos
-
-Para este desafio você precisará de:
-
-- Java 8 (ou superior)
-- Git
-
