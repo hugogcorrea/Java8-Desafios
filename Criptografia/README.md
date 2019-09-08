@@ -1,7 +1,4 @@
 # Criptografia
-A API devera realizar a seguite modificação na frase:
-* **Normal**:  `a ligeira raposa marrom saltou sobre o cachorro cansado`
-* **Cifrado**: `d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr`
 
 O objetivo desse desafio é que você automatiza a criptografia e descriptografia dessas menagens:
 
