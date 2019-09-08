@@ -1,5 +1,5 @@
 # Java8-Desafios
-Desafios Lançados Pela Codenation, realizado em java 8
+Desafios realizado em java 8
 
 # Metodologias abordadas:
 - Java 8
